@@ -5,6 +5,8 @@ ChatGPT 用户问答、知识库
 
 [ChatGPT 联网搜索用不了？解决办法](https://github.com/AI123DEV/ChatGPT-Wiki/blob/main/ChatGPT-SearchGPT-Error.md)
 
+[ChatGPT 文件识别不了？一招解决](https://github.com/AI123DEV/ChatGPT-Wiki/blob/main/ChatGPT-upload-files-can-not-Analysis.md)
+
 ---
 
 ### 引用链接
