@@ -1,0 +1,21 @@
+{
+  "title": "ChatGPT-Wiki",
+  "description": "ChatGPT 用户问答、知识库",
+  "baseUrl": "https://ai123.dev",
+  "language": "zh-CN",
+  "author": {
+    "name": "AI123DEV",
+    "email": "contact@ai123.dev"
+  },
+  "social": {
+    "github": "https://github.com/AI123DEV/ChatGPT-Wiki"
+  },
+  "categories": [
+    "ChatGPT",
+    "OpenAI",
+    "Claude",
+    "AI工具",
+    "教程",
+    "常见问题"
+  ]
+} 
